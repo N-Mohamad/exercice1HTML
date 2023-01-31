@@ -1,0 +1,29 @@
+#compteur-clics{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(190, 190, 190);
+}
+input{
+    width: 450px;
+    text-align: center;
+}
+#clics-plus{
+    width: 225px;
+    height: 55px;
+    color: white;
+    background-color: rgb(72, 129, 190);
+}
+#clics-moins{
+    width: 225px;
+    height: 55px;
+    color: white;
+    background-color: rgb(72, 129, 190);
+}
+#reset{
+    width: 128px;
+    height: 35px;
+    border-color: red ;
+    color: red;
+}
